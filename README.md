@@ -44,8 +44,6 @@ CourseProvider is an innovative platform that offers a diverse range of courses 
 
 🐦 [Follow us on Twitter](https://twitter.com/CourseProvider)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 Happy Learning! 🚀✨
