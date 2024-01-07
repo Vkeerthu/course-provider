@@ -42,7 +42,7 @@ CourseProvider is an innovative platform that offers a diverse range of courses 
 
 📧 [Email Support](mailto:support@courseprovider.com)
 
-🐦 [Follow us on Twitter](https://twitter.com/CourseProvider)
+
 
 
 
