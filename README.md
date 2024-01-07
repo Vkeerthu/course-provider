@@ -38,7 +38,7 @@ CourseProvider is an innovative platform that offers a diverse range of courses 
 
 ## Connect With Us
 
-🌐 [Visit Our Website](https://www.courseprovider.com)
+🌐 [Visit Our Website](https://vkeerthu.github.io/updated_course_provider/)
 
 📧 [Email Support](mailto:support@courseprovider.com)
 
