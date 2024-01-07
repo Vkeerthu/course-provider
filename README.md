@@ -20,7 +20,7 @@ CourseProvider is an innovative platform that offers a diverse range of courses 
 
 ## Getting Started
 
-1. **Visit Our Website**: [CourseProvider.com](https://www.courseprovider.com)
+1. **Visit Our Website**: [CourseProvider.com](https://vkeerthu.github.io/updated_course_provider/)
 
 2. **Sign Up or Log In**: Create your account or log in if you're already a member.
 
